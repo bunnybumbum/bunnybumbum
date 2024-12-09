@@ -1,4 +1,3 @@
-![Uploading 1.png…]()
 
 <!--
 **bunnybumbum/bunnybumbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
