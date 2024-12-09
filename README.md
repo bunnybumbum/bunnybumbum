@@ -1,4 +1,4 @@
-![My Image](bunnybumbum/background.webp)
+![My Image](bunnybumbum/bunnybumbum/refs/heads/main/background.webp)
 <!--
 **bunnybumbum/bunnybumbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
